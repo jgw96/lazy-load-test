@@ -10,19 +10,17 @@
     "ionic:serve": "ionic-app-scripts serve"
   },
   "dependencies": {
-    "@angular/common": "4.0.0-rc.5",
-    "@angular/compiler": "4.0.0-rc.5",
-    "@angular/compiler-cli": "4.0.0-rc.5",
-    "@angular/core": "4.0.0-rc.5",
-    "@angular/forms": "4.0.0-rc.5",
-    "@angular/http": "4.0.0-rc.5",
-    "@angular/platform-browser": "4.0.0-rc.5",
-    "@angular/platform-browser-dynamic": "4.0.0-rc.5",
-    "@angular/platform-server": "4.0.0-rc.5",
-    "@ionic-native/inappbrowser": "^3.0.0-alpha.1",
-    "@ionic-native/splashscreen": "^3.0.0-alpha.1",
+    "@angular/common": "4.0.0",
+    "@angular/compiler": "4.0.0",
+    "@angular/compiler-cli": "4.0.0",
+    "@angular/core": "4.0.0",
+    "@angular/forms": "4.0.0",
+    "@angular/http": "4.0.0",
+    "@angular/platform-browser": "4.0.0",
+    "@angular/platform-browser-dynamic": "4.0.0",
+    "@angular/platform-server": "4.0.0",
     "@ionic/storage": "2.0.1",
-    "ionic-angular": "2.2.0-201703171907",
+    "ionic-angular": "3.0.0-beta.3",
     "ionicons": "3.0.0",
     "rxjs": "5.0.1",
     "sw-toolbox": "3.4.0",
@@ -50,7 +48,6 @@
   ],
   "description": "app: An Ionic project",
   "config": {
-    "ionic_experimental_purge_decorators": true,
     "ionic_generate_source_map": true,
     "ionic_aot_write_to_disk": true
   }
